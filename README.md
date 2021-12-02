@@ -1,5 +1,5 @@
 # bot-simsimi-js
-<b><p align="center">BOT DENGAN API SIMSIMI</p></b>
+<b><h1><p align="center">BOT DENGAN API SIMSIMI</p></h1></b>
 
 <p>Langkah awal pembuatan chat bot dengan api simsimi</p>
 <ol> <li>Untuk mencoba membuat bot sim simi kita perlu menginstal namanya simsimi melalui npm.</li>
